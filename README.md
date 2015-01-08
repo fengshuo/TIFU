@@ -1,14 +1,23 @@
 # TIFU 
 
 
-Tools I Find Useful, be it front end resources or design related tool, even backend stuff.  
+Tools I Found Useful, be it front end resources or design related tool, even backend stuff.  
 
 ---
 
 
 # CSS Sprites
-- [Spritecow](http://www.spritecow.com/)
+- [Spritecow](http://www.spritecow.com/)  
+- [Stitches](http://draeton.github.io/stitches/)
+
+# Icons
+- [Iconverticons](http://iconverticons.com/online/)  
 
 
 # Fonts
-- [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [Google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)  
+- [Web Font Generator](https://www.web-font-generator.com/)  
+- [Fontsquirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
+
+# Retina
+- [Retinize](http://retinize.it/)  
