@@ -8,7 +8,8 @@ Tools I Found Useful, be it front end resources or design related tool, even bac
 
 # CSS Sprites
 - [Spritecow](http://www.spritecow.com/)  
-- [Stitches](http://draeton.github.io/stitches/)
+- [Stitches](http://draeton.github.io/stitches/)  
+- [Spritebox](http://www.spritebox.net/)
 
 # Icons
 - [Iconverticons](http://iconverticons.com/online/)  
