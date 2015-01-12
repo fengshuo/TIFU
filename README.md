@@ -22,3 +22,6 @@ Tools I Found Useful, be it front end resources or design related tool, even bac
 
 # Retina
 - [Retinize](http://retinize.it/)  
+
+# Photoshop Plugin
+- [Plugins](http://www.cssauthor.com/photoshop-plugins-for-web-designers/?utm_content=bufferacdc6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
