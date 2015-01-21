@@ -25,3 +25,7 @@ Tools I Found Useful, be it front end resources or design related tool, even bac
 
 # Photoshop Plugin
 - [Plugins](http://www.cssauthor.com/photoshop-plugins-for-web-designers/?utm_content=bufferacdc6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+# Manage Github Stars
+- [Astral](https://app.astralapp.com)  
+- [Gitrep](https://www.gitrep.com)
