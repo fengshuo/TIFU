@@ -1,7 +1,7 @@
 # TIFU 
 
 
-Tools I Found Useful, be it front end resources or design related tool, even backend stuff.  
+Things I Found Useful, be it front end resources or design related tool, even backend stuff.  
 
 ---
 
